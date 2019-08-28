@@ -1,0 +1,21 @@
+@import '../scss/main.css';
+
+body {
+	background: rgb(222, 237, 243)
+}
+
+h1 {
+	color: maroon;
+	width: 100%;
+	text-align: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.img-pic{
+	width: 100%;
+	text-align: center;
+}
+
+.img-pic img{
+	width: 20%;
+}
